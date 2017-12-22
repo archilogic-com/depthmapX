@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# run on ubuntu-14.04
+
 sudo add-apt-repository --yes ppa:beineri/opt-qt571-trusty
 sudo add-apt-repository --yes ppa:fkrull/deadsnakes
 sudo apt-get update -qq
